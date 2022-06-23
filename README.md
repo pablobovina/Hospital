@@ -1,2 +1,2 @@
 # Hospital
-Exercise for students
+Exercise for students for learning programming languages.
